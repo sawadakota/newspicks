@@ -1,0 +1,19 @@
+current directory: /Users/sawadakota/programing/newspicks/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+/Users/sawadakota/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20160925-7118-zweups.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sawadakota/programing/newspicks/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/sawadakota/programing/newspicks/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/sawadakota/programing/newspicks/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20160925-7118-gxm6dn/byebug
